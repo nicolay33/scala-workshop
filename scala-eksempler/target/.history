@@ -1,0 +1,17 @@
+set name:=scala-eksempler
+set name:="scala-eksempler"
+set version:=1.0
+set version:="1.0"
+set scalaVersion:="2.9.1"
+session save
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
