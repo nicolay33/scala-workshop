@@ -1,0 +1,36 @@
+;
+_
+asignment
+return verdi
+	siste element returneres.. trenger ikke si return
+	trenger ikke definere returverditype i signaturen
+val og var
+	val = final
+	var gir auto get og set
+traits
+	trait xx{
+		def siHei()...
+	}
+	trait yy{
+		def siHade()...
+	}
+	Bruk:
+	class Person() extends xx
+	new person(...).siHei
+	new person(...) with yy
+object vs. class
+	companion objects
+	object = singleton
+Access modifiers
+	Protected --> package
+	package root
+	protected [root] def zzz  --> er tilgjengelig i pakken root
+  Nøstede pakkestrukturer
+Lister og Map
+Flytkontroll
+	if
+	løkker
+		for
+		while
+		do
+	
